@@ -1,0 +1,7 @@
+name: Compnay
+version: ${project.version}
+main: red.man10.compnay.Compnay
+prefix: Man10Company
+authors: [takatronix]
+description: Company Plugin
+website: http://man10.red
