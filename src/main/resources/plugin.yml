@@ -1,6 +1,6 @@
-name: Compnay
+name: Man10Company
 version: ${project.version}
-main: red.man10.compnay.Compnay
+main: red.man10.company.CompanyPlugin
 prefix: Man10Company
 authors: [takatronix]
 description: Company Plugin
